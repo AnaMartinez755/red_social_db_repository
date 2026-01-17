@@ -7,3 +7,9 @@ Para poder ejecutar este proyecto necesitas:
 * dotenv
 * mysql ( workbench)
 
+Para poder conectarte a tu conexion (mySql) necesitas un archivo .env con un formato :
+"DB_USER"= ""
+"DB_PASSWORD"= ""
+"DB_HOST"= ""
+"DB_PORT"= ""
+"DB_NAME"= ""
