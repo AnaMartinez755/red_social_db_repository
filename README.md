@@ -19,3 +19,6 @@ Para poder conectarte a tu conexion (mySql) necesitas un archivo .env con un for
 "DB_NAME"= ""
 
 Nota: Para correr la integracion de la red social con tu base de datos necesitas correr : red_social_db.py
+Nota: En tu base de datos debes crear : 
+```CREATE DATABASE red_social_bd;
+USE red_social_bd;```
