@@ -9,7 +9,13 @@ Para poder ejecutar este proyecto necesitas:
 
 Para poder conectarte a tu conexion (mySql) necesitas un archivo .env con un formato :
 "DB_USER"= ""
+
 "DB_PASSWORD"= ""
+
 "DB_HOST"= ""
+
 "DB_PORT"= ""
+
 "DB_NAME"= ""
+
+Nota: Para correr la integracion de la red social con tu base de datos necesitas correr : red_social_db.py
