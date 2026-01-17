@@ -8,15 +8,15 @@ Para poder ejecutar este proyecto necesitas:
 * mysql ( workbench)
 
 Para poder conectarte a tu conexion (mySql) necesitas un archivo .env con un formato :
-"DB_USER"= ""
+DB_USER= ""
 
-"DB_PASSWORD"= ""
+DB_PASSWORD= ""
 
-"DB_HOST"= ""
+DB_HOST= ""
 
-"DB_PORT"= ""
+DB_PORT= ""
 
-"DB_NAME"= ""
+DB_NAME= ""
 
 Nota: Para correr la integracion de la red social con tu base de datos necesitas correr : main.py
 Nota: En tu base de datos debes crear : 
